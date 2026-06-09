@@ -2,6 +2,8 @@
 
  kuka's simple crosshair overlay (v0.4.2.0)
 
+ WinAPI utlizing mutex, Layered Windows, GDI Brush optimization, tray-keyboard syncing, redrawing only when visible, etc
+
 ### shortcuts
 - CTRL + F1 - toggle show/hide
 - CTRL + F2 - size: 1px, 2px x 2px
